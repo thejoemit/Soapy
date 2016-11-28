@@ -1,7 +1,7 @@
 /**
  * @title 		ExternalStack
- * @author 		Joseph Mitchell (100806582)
- * @contact 	the.joe.mit@gmail.com
+ * @author 		Joseph Mitchell
+ * @contact 		the(dot)joe(dot)mit[at]gmail[dot]com
  * @date		11/21/2016 @ 10:36 PM
  * @license		CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
  * @description The external handler that determines which server gets the job and connects to the one selected.

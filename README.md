@@ -11,20 +11,25 @@ This code was created for submission to Assignment3 for NET4005 at Carleton Univ
 	
 # Class descriptions
 
- * @title 		WebServiceInterface.java
- * @description This is an interface class that contains default prototype functions for the entire package
+ @title 		WebServiceInterface.java
  
- * @title 		ServicePublisher.java
- * @description The Service Publisher creates two internal services with a shared round-robin gateway
+ This is an interface class that contains default prototype functions for the entire package
  
- * @title 		ServiceClient.java
- * @description The Service client to access the External SOAP interface's login function
+ @title 		ServicePublisher.java
  
- * @title 		InternalStack.java
- * @description The internal functions for sending a string greeting to supplied username and to generate a random number. 
+ The Service Publisher creates two internal services with a shared round-robin gateway
  
- * @title 		ExternalStack.java
- * @description The external handler that determines which server gets the job and connects to the one selected.
+ @title 		ServiceClient.java
+ 
+ The Service client to access the External SOAP interface's login function
+ 
+ @title 		InternalStack.java
+ 
+ The internal functions for sending a string greeting to supplied username and to generate a random number. 
+ 
+ @title 		ExternalStack.java
+ 
+ The external handler that determines which server gets the job and connects to the one selected.
 
 
 # References:
@@ -35,4 +40,4 @@ http://www.mkyong.com/webservices/jax-ws/jax-ws-hello-world-example/
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 You may read the summarized license at: https://creativecommons.org/licenses/by-nc-sa/4.0/
-You may read the full license at: https://github.com/thejoemit/Csocketdl/blob/master/LICENSE.md
+You may read the full license at: https://raw.githubusercontent.com/thejoemit/Soapy/master/LICENSE

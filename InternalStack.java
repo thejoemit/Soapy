@@ -1,7 +1,7 @@
 /**
  * @title 		InternalStack
  * @author 		Joseph Mitchell
- * @contact 	the(dot)joe(dot)mit[at]gmail[dot]com
+ * @contact 		the(dot)joe(dot)mit[at]gmail[dot]com
  * @date		11/21/2016 @ 10:33 PM
  * @license		CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
  * @description The internal functions for sending a string greeting to supplied username and to generate a random number.
